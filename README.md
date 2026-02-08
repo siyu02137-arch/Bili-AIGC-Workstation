@@ -12,6 +12,9 @@ AI 创意引擎 (AI Creative Engine)：基于 Ollama (Qwen2.5-7B) 实现脚本�
 
 工作流集成 (Workflow Integration)：一键完成从“关键词”到“爆款剧本”再到“电影级封面”的全链路闭环。
 
+视觉展示 (Visual Showcase)
+<img width="1280" height="720" alt="Flux_Gen_00008_" src="https://github.com/user-attachments/assets/c1137e5e-dca4-4f95-9509-278d0c9e3407" />
+
 硬件环境 (Hardware Environment)
 项目针对以下配置进行了极端压力测试并稳定运行：
 
